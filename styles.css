@@ -1,0 +1,76 @@
+body
+{
+    font-family: 'Roboto',sans-serif;
+
+    background-image: url("sdsds.jpg");
+    background-size: cover;
+}
+
+.logo
+{
+    position: absolute;
+    left: 20px;
+    top: 0px
+}
+
+
+.nav-bar
+{
+    padding-top: 50px;
+    float:right;
+    font-size: 20px;
+
+
+}
+a:link
+{
+    text-decoration: none;
+    color: #d8dee9;
+}
+#home
+{
+    padding: 15px;
+    color: #d8dee9;
+}
+
+#about
+{
+    padding: 10px;
+}
+
+#res
+{
+    padding: 10px;
+}
+
+#curr
+{
+    padding: 10px;
+}
+
+#sign
+{
+    padding: 10px;
+}
+
+#titleName
+{
+    position: absolute;
+    top: 25px;
+    left: 225px;
+    font-size: 35px;
+    color: #eceff4;
+
+}
+.hero
+{
+    font-size: 23px;
+    max-width: 600px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%,-50%);
+
+}
+
